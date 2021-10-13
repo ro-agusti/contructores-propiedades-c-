@@ -1,0 +1,11 @@
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsPOOClinica\bin\Debug\WindowsPOOClinica.exe.config
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsPOOClinica\bin\Debug\WindowsPOOClinica.exe
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsPOOClinica\bin\Debug\WindowsPOOClinica.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.csproj.AssemblyReference.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.Properties.Resources.resources
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.csproj.GenerateResource.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.exe
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.Form1.resources
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.FrmCaso1.resources

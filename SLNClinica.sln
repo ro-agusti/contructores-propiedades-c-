@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsPOOClinica", "WindowsPOOClinica\WindowsPOOClinica.csproj", "{873C80C5-7F0A-437E-9251-7908FA05F8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsConcesionaria", "WindowsConcesionaria\WindowsConcesionaria.csproj", "{F6863B0E-D2A5-496E-9E5F-D8840FD0635C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873C80C5-7F0A-437E-9251-7908FA05F8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873C80C5-7F0A-437E-9251-7908FA05F8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873C80C5-7F0A-437E-9251-7908FA05F8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873C80C5-7F0A-437E-9251-7908FA05F8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6863B0E-D2A5-496E-9E5F-D8840FD0635C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6863B0E-D2A5-496E-9E5F-D8840FD0635C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6863B0E-D2A5-496E-9E5F-D8840FD0635C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6863B0E-D2A5-496E-9E5F-D8840FD0635C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18036722-6681-4579-A026-AE8638FDA037}
+	EndGlobalSection
+EndGlobal

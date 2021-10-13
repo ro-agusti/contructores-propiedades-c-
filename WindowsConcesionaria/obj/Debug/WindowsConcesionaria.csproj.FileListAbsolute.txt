@@ -1,0 +1,10 @@
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsConcesionaria\bin\Debug\WindowsConcesionaria.exe.config
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsConcesionaria\bin\Debug\WindowsConcesionaria.exe
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsConcesionaria\bin\Debug\WindowsConcesionaria.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsConcesionaria\obj\Debug\WindowsConcesionaria.csproj.AssemblyReference.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsConcesionaria\obj\Debug\WindowsConcesionaria.Form1.resources
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsConcesionaria\obj\Debug\WindowsConcesionaria.Properties.Resources.resources
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsConcesionaria\obj\Debug\WindowsConcesionaria.csproj.GenerateResource.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsConcesionaria\obj\Debug\WindowsConcesionaria.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsConcesionaria\obj\Debug\WindowsConcesionaria.exe
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\09-poo\SLNClinica\WindowsConcesionaria\obj\Debug\WindowsConcesionaria.pdb
